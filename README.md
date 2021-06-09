@@ -30,7 +30,7 @@
 
     
 <h1 align="center">𝐒𝐞𝐜𝐨𝐧𝐝 𝐒𝐡𝐨𝐫𝐭𝐥𝐢𝐬𝐭𝐢𝐧𝐠</h1>
-     <p align="center">I am Shortlisted for second Round Which was taken By VC of Company</p>
+     <p align="left">I am Shortlisted for second Round Which was taken By VC of Company</p>
       
   <h1 align="center">𝐒𝐞𝐜𝐨𝐧𝐝 𝐒𝐡𝐨𝐫𝐭𝐥𝐢𝐬𝐭𝐢𝐧𝐠 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 </h1>
      <p align="left">He is So idiot that even answering a correct answer He reject all of Us and he asking same Question to All Of Us</p> 

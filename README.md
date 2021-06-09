@@ -20,6 +20,7 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/ashish2030/LIDO-SDE-ROLE-SOLUTION-IN-2021-FOR-BATCH-2022)](https://github.com/ashish2030/LIDO-SDE-ROLE-SOLUTION-IN-2021-FOR-BATCH-2022/archive/master.zip)
   
  <h1 align="center">𝐄𝐦𝐚𝐢𝐥</h1>  
+ 
 ![Chitkara University, Himachal Mail - Requirement _ Full Stack Intern1024_1](https://user-images.githubusercontent.com/61516051/121311833-6970c000-c922-11eb-834c-a5c1e51b09df.jpg)
 
    <h1 align="center">𝐅𝐢𝐫𝐬𝐭 𝐂𝐨𝐝𝐢𝐧𝐠 𝐑𝐨𝐮𝐧𝐝</h1>
